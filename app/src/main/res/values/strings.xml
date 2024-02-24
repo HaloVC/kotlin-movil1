@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">AppFormulariosKotlin</string>
+    <string name="btnregistro">REGISTRAR PERSONAS</string>
+    <string name="tituloregistro">REGISTRAR PERSONAN</string>
+    <string name="valnombres">INGRESE SUS NOMBRES</string>
+    <string name="valapellido">INGRESE SUS APELLIDOS</string>
+    <string name="valgenero">SELECCIONE SU GENERO:</string>
+    <string name="valmasculino">Masculino</string>
+    <string name="valfemenino">Femenino</string>
+    <string name="valreferencia">Seleccione sus preferencias:</string>
+    <string name="valdeporte">Deporte</string>
+    <string name="valmusica">Musica</string>
+    <string name="valotros">Otras preferencias</string>
+    <string name="valestadocivil">Seleccione su estadp civil</string>
+    <string name="valnotificar">¿Notificar a usuario?</string>
+    <string name="valregistrarpersona">REGISTRAR PERSONAS</string>
+    <string name="vallistarpersonas">LISTAR PERSONAS</string>
+    <string name="valtitulolistapersona">LISTADO DE PERSONAS</string>
+</resources>
